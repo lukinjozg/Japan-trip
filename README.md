@@ -2,7 +2,7 @@
 
 A two-week route through Japan on a map: Tokyo, Hakone, Kyoto, Nara, Osaka, Hiroshima, Miyajima and Kumamoto, from 23 December 2026 to 6 January 2027, with One Piece and Jujutsu Kaisen spots along the way.
 
-**Open the map:** https://lukinjozg.github.io/japan-trip/
+**Open the map:** https://lukinjozg.github.io/Japan-trip/
 
 **All places with Google Maps links:** [PLACES.md](PLACES.md)
 

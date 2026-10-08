@@ -1,6 +1,6 @@
 # Places for Mile & Ika in Japan
 
-Every place from the map's databases, with a Google Maps link, grouped under the nearest stop of the route (within 50 km). The live map is at https://lukinjozg.github.io/japan-trip/ and the lists themselves are the CSV files in [databases/](databases/).
+Every place from the map's databases, with a Google Maps link, grouped under the nearest stop of the route (within 50 km). The live map is at https://lukinjozg.github.io/Japan-trip/ and the lists themselves are the CSV files in [databases/](databases/).
 
 ## Route
 
