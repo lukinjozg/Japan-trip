@@ -22,9 +22,11 @@ Every place from the map's databases, with a Google Maps link, grouped under the
 
 Wed 23 Dec – Mon 28 Dec, 5 nights
 
+- [Kamakura](https://www.google.com/maps/search/?api=1&query=Kamakura%2C%20Japan) 鎌倉 · City · Seaside temple town, about 1 hour from Tokyo.
 - [Tokyo](https://www.google.com/maps/search/?api=1&query=Tokyo%2C%20Japan) 東京 · City · Huge city. Stay near Shinjuku or Shibuya so the JR Yamanote loop line is on your doorstep.
 - [Yokohama](https://www.google.com/maps/search/?api=1&query=Yokohama%2C%20Japan) 横浜 · City · Chinatown, Minato Mirai waterfront, Cup Noodles Museum.
 - [Ghibli Museum](https://www.google.com/maps/search/?api=1&query=Ghibli%20Museum%2C%20Japan) 三鷹の森ジブリ美術館 · Sight · Timed tickets go on sale the month before and sell out fast.
+- [Kamakura Great Buddha](https://www.google.com/maps/search/?api=1&query=Kamakura%20Great%20Buddha%2C%20Japan) 鎌倉大仏 · Sight · Giant bronze Buddha at Kotoku-in.
 - [Meiji Jingu](https://www.google.com/maps/search/?api=1&query=Meiji%20Jingu%2C%20Japan) 明治神宮 · Sight · Forest shrine next to Harajuku. Calm early in the morning.
 - [Odaiba](https://www.google.com/maps/search/?api=1&query=Odaiba%2C%20Japan) お台場 · Sight · Waterfront with the life-size Gundam and Rainbow Bridge views.
 - [Senso-ji](https://www.google.com/maps/search/?api=1&query=Senso-ji%2C%20Japan) 浅草寺 · Sight · Tokyo's oldest temple, in Asakusa. Quietest before 8am or after dark.
@@ -72,10 +74,8 @@ Wed 23 Dec – Mon 28 Dec, 5 nights
 
 Mon 28 Dec – Tue 29 Dec, 1 night
 
-- [Kamakura](https://www.google.com/maps/search/?api=1&query=Kamakura%2C%20Japan) 鎌倉 · City · Seaside temple town, about 1 hour from Tokyo.
 - [Chureito Pagoda](https://www.google.com/maps/search/?api=1&query=Chureito%20Pagoda%2C%20Japan) 忠霊塔 · Sight · The postcard view: five-storey pagoda with Mt Fuji behind.
 - [Hakone Shrine](https://www.google.com/maps/search/?api=1&query=Hakone%20Shrine%2C%20Japan) 箱根神社 · Sight · Red torii standing in Lake Ashi.
-- [Kamakura Great Buddha](https://www.google.com/maps/search/?api=1&query=Kamakura%20Great%20Buddha%2C%20Japan) 鎌倉大仏 · Sight · Giant bronze Buddha at Kotoku-in.
 - [Kawaguchiko](https://www.google.com/maps/search/?api=1&query=Kawaguchiko%2C%20Japan) 河口湖 · Nature · Lake at the foot of Mt Fuji.
 - [Mount Fuji](https://www.google.com/maps/search/?api=1&query=Mount%20Fuji%2C%20Japan) 富士山 · Nature · Climbing season is roughly July to early September.
 - [Owakudani](https://www.google.com/maps/search/?api=1&query=Owakudani%2C%20Japan) 大涌谷 · Nature · Steaming volcanic valley. Try the black eggs.
