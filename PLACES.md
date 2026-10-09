@@ -10,11 +10,12 @@ Every place from the map's databases, with a Google Maps link, grouped under the
 | 02 | Tokyo 東京 | Wed 23 Dec – Sun 27 Dec | 4 |
 | 03 | Hakone 箱根 | Sun 27 Dec – Mon 28 Dec | 1 |
 | 04 | Kyoto 京都 | Mon 28 Dec – Thu 31 Dec | 3 |
-| 05 | Nara 奈良 | Thu 31 Dec | – |
-| 06 | Osaka 大阪 | Thu 31 Dec – Sat 2 Jan | 2 |
-| 07 | Nagoya 名古屋 | Sat 2 Jan – Sun 3 Jan | 1 |
-| 08 | Tokyo Station 東京駅 | Sun 3 Jan | – |
-| 09 | Narita Airport 成田空港 | Sun 3 Jan | – |
+| 05 | Osaka 大阪 | Thu 31 Dec – Sat 2 Jan | 2 |
+| 06 | Hiroshima 広島 | Sat 2 Jan – Sun 3 Jan | 1 |
+| 07 | Miyajima 宮島 | Sun 3 Jan | – |
+| 08 | Nagoya 名古屋 | Sun 3 Jan – Mon 4 Jan | 1 |
+| 09 | Tokyo Station 東京駅 | Mon 4 Jan | – |
+| 10 | Narita Airport 成田空港 | Mon 4 Jan | – |
 
 ## 02 · Tokyo 東京
 
@@ -101,25 +102,20 @@ Mon 28 Dec – Thu 31 Dec, 3 nights
 - [Kyoto Tower](https://www.google.com/maps/search/?api=1&query=34.98753%2C135.75936) 京都タワー · Jujutsu Kaisen · Appears in a manga flashback (chapter 17). Right across from Kyoto Station.
 - [Mugiwara Store Mini Kyoto](https://www.google.com/maps/search/?api=1&query=Kiddyland+Kyoto+Shijo+Kawaramachi) 麦わらストア MINI 京都 · One Piece · A small One Piece corner inside Kiddyland Kyoto, Shijo-Kawaramachi. Usually 11:00–21:00.
 
-## 05 · Nara 奈良
-
-Thu 31 Dec
-
-- [Nara](https://www.google.com/maps/search/?api=1&query=Nara%2C%20Japan) 奈良 · City · Old capital, easy from Kyoto or Osaka.
-- [Kasuga Taisha](https://www.google.com/maps/search/?api=1&query=Kasuga%20Taisha%2C%20Japan) 春日大社 · Sight · Shrine lined with thousands of lanterns.
-- [Todai-ji](https://www.google.com/maps/search/?api=1&query=Todai-ji%2C%20Japan) 東大寺 · Sight · Huge wooden hall with a 15 m bronze Buddha.
-- [Nara Park](https://www.google.com/maps/search/?api=1&query=Nara%20Park%2C%20Japan) 奈良公園 · Nature · Free-roaming bowing deer. Buy shika senbei crackers for them.
-
-## 06 · Osaka 大阪
+## 05 · Osaka 大阪
 
 Thu 31 Dec – Sat 2 Jan, 2 nights
 
 - [Kobe](https://www.google.com/maps/search/?api=1&query=Kobe%2C%20Japan) 神戸 · City · Kobe beef and the harbour.
+- [Nara](https://www.google.com/maps/search/?api=1&query=Nara%2C%20Japan) 奈良 · City · Old capital, easy from Kyoto or Osaka.
 - [Osaka](https://www.google.com/maps/search/?api=1&query=Osaka%2C%20Japan) 大阪 · City · Food city. Stay around Namba for Dotonbori.
+- [Kasuga Taisha](https://www.google.com/maps/search/?api=1&query=Kasuga%20Taisha%2C%20Japan) 春日大社 · Sight · Shrine lined with thousands of lanterns.
 - [Osaka Castle](https://www.google.com/maps/search/?api=1&query=Osaka%20Castle%2C%20Japan) 大阪城 · Sight
 - [Sumiyoshi Taisha](https://www.google.com/maps/search/?api=1&query=Sumiyoshi%20Taisha%2C%20Japan) 住吉大社 · Sight · Osaka's grand shrine with the arched red bridge, the busiest in the city on 1–3 Jan. Nankai line from Namba, about 10 minutes.
+- [Todai-ji](https://www.google.com/maps/search/?api=1&query=Todai-ji%2C%20Japan) 東大寺 · Sight · Huge wooden hall with a 15 m bronze Buddha.
 - [Umeda Sky Building](https://www.google.com/maps/search/?api=1&query=Umeda%20Sky%20Building%2C%20Japan) 梅田スカイビル · Sight · Floating Garden observatory.
 - [Universal Studios Japan](https://www.google.com/maps/search/?api=1&query=Universal%20Studios%20Japan) ユニバーサル・スタジオ・ジャパン · Sight · Super Nintendo World needs a timed entry ticket or Express Pass.
+- [Nara Park](https://www.google.com/maps/search/?api=1&query=Nara%20Park%2C%20Japan) 奈良公園 · Nature · Free-roaming bowing deer. Buy shika senbei crackers for them.
 - [Dotonbori](https://www.google.com/maps/search/?api=1&query=Dotonbori%2C%20Japan) 道頓堀 · Food · Neon canal and street food: takoyaki, okonomiyaki, kushikatsu.
 - [Kuromon Market](https://www.google.com/maps/search/?api=1&query=Kuromon%20Market%2C%20Japan) 黒門市場 · Food · Seafood and Wagyu skewers.
 - [Shinsekai](https://www.google.com/maps/search/?api=1&query=Shinsekai%2C%20Japan) 新世界 · Food · Retro district under Tsutenkaku tower, famous for kushikatsu.
@@ -133,9 +129,26 @@ Thu 31 Dec – Sat 2 Jan, 2 nights
 - [Mugiwara Store Abeno](https://www.google.com/maps/search/?api=1&query=ONE+PIECE+Mugiwara+Store+Abeno) 麦わらストア あべの · One Piece · Abeno Q's Mall 3F, Tennoji. Usually 10:00–21:00.
 - [Mugiwara Store Umeda](https://www.google.com/maps/search/?api=1&query=ONE+PIECE+Mugiwara+Store+Umeda) 麦わらストア 梅田 · One Piece · LUCUA SOUTH 13F, Osaka Station. LUCUA SOUTH reopens on 24 Nov 2026; for a while after that, floors 10–13 may need a lottery or numbered ticket.
 
-## 07 · Nagoya 名古屋
+## 06 · Hiroshima 広島
 
 Sat 2 Jan – Sun 3 Jan, 1 night
+
+- [Hiroshima](https://www.google.com/maps/search/?api=1&query=Hiroshima%2C%20Japan) 広島 · City · Try Hiroshima-style okonomiyaki (layered, with noodles).
+- [Hiroshima Peace Memorial Park](https://www.google.com/maps/search/?api=1&query=Hiroshima%20Peace%20Memorial%20Park%2C%20Japan) 平和記念公園 · Sight · Atomic Bomb Dome and the Peace Memorial Museum. Plan 2 to 3 hours.
+
+**One Piece & Jujutsu Kaisen**
+
+- [Jump Shop Hiroshima](https://www.google.com/maps/search/?api=1&query=Jump+Shop+Hiroshima+MINAMOA) ジャンプショップ 広島 · Jump Shop · MINAMOA 5F, in the Hiroshima Station building. Easy to visit while changing trains.
+
+## 07 · Miyajima 宮島
+
+Sun 3 Jan
+
+- [Miyajima](https://www.google.com/maps/search/?api=1&query=Miyajima%2C%20Japan) 宮島 · Sight · Floating torii of Itsukushima Shrine. Check the tide table.
+
+## 08 · Nagoya 名古屋
+
+Sun 3 Jan – Mon 4 Jan, 1 night
 
 - [Nagoya](https://www.google.com/maps/search/?api=1&query=Nagoya%2C%20Japan) 名古屋 · City · Castle, miso katsu, and the Ghibli Park nearby.
 - [Atsuta Jingu](https://www.google.com/maps/search/?api=1&query=Atsuta%20Jingu%2C%20Japan) 熱田神宮 · Sight · One of Japan's most important shrines, home of the sacred sword. Packed with New Year visitors on 1–3 Jan.
@@ -211,18 +224,11 @@ Places more than 50 km from the route, for other trips or a change of plan.
 
 ### Chugoku
 
-- [Hiroshima](https://www.google.com/maps/search/?api=1&query=Hiroshima%2C%20Japan) 広島 · City · Try Hiroshima-style okonomiyaki (layered, with noodles).
 - [Onomichi](https://www.google.com/maps/search/?api=1&query=Onomichi%2C%20Japan) 尾道 · City · Start of the Shimanami Kaido cycling route.
-- [Hiroshima Peace Memorial Park](https://www.google.com/maps/search/?api=1&query=Hiroshima%20Peace%20Memorial%20Park%2C%20Japan) 平和記念公園 · Sight · Atomic Bomb Dome and the Peace Memorial Museum. Plan 2 to 3 hours.
 - [Izumo Taisha](https://www.google.com/maps/search/?api=1&query=Izumo%20Taisha%2C%20Japan) 出雲大社 · Sight · Ancient shrine with a giant straw rope.
 - [Kurashiki](https://www.google.com/maps/search/?api=1&query=Kurashiki%2C%20Japan) 倉敷 · Sight · Willow-lined canal old town.
-- [Miyajima](https://www.google.com/maps/search/?api=1&query=Miyajima%2C%20Japan) 宮島 · Sight · Floating torii of Itsukushima Shrine. Check the tide table.
 - [Okayama Korakuen](https://www.google.com/maps/search/?api=1&query=Okayama%20Korakuen%2C%20Japan) 後楽園 · Nature · One of Japan's three great gardens.
 - [Tottori Sand Dunes](https://www.google.com/maps/search/?api=1&query=Tottori%20Sand%20Dunes%2C%20Japan) 鳥取砂丘 · Nature
-
-**One Piece & Jujutsu Kaisen**
-
-- [Jump Shop Hiroshima](https://www.google.com/maps/search/?api=1&query=Jump+Shop+Hiroshima+MINAMOA) ジャンプショップ 広島 · Jump Shop · MINAMOA 5F, in the Hiroshima Station building. Easy to visit while changing trains.
 
 ### Shikoku
 
