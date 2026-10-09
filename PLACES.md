@@ -7,20 +7,18 @@ Every place from the map's databases, with a Google Maps link, grouped under the
 | # | Stop | Dates | Nights |
 |---|---|---|---|
 | 01 | Narita Airport 成田空港 | Wed 23 Dec | – |
-| 02 | Tokyo 東京 | Wed 23 Dec – Mon 28 Dec | 5 |
-| 03 | Hakone 箱根 | Mon 28 Dec – Tue 29 Dec | 1 |
-| 04 | Kyoto 京都 | Tue 29 Dec – Fri 1 Jan | 3 |
-| 05 | Nara 奈良 | Fri 1 Jan | – |
-| 06 | Osaka 大阪 | Fri 1 Jan – Sun 3 Jan | 2 |
-| 07 | Hiroshima 広島 | Sun 3 Jan – Mon 4 Jan | 1 |
-| 08 | Miyajima 宮島 | Mon 4 Jan | – |
-| 09 | Kumamoto 熊本 | Mon 4 Jan – Wed 6 Jan | 2 |
-| 10 | Tokyo Haneda 羽田空港 | Wed 6 Jan | – |
-| 11 | Narita Airport 成田空港 | Wed 6 Jan | – |
+| 02 | Tokyo 東京 | Wed 23 Dec – Sun 27 Dec | 4 |
+| 03 | Hakone 箱根 | Sun 27 Dec – Mon 28 Dec | 1 |
+| 04 | Kyoto 京都 | Mon 28 Dec – Thu 31 Dec | 3 |
+| 05 | Nara 奈良 | Thu 31 Dec | – |
+| 06 | Osaka 大阪 | Thu 31 Dec – Sat 2 Jan | 2 |
+| 07 | Nagoya 名古屋 | Sat 2 Jan – Sun 3 Jan | 1 |
+| 08 | Tokyo Station 東京駅 | Sun 3 Jan | – |
+| 09 | Narita Airport 成田空港 | Sun 3 Jan | – |
 
 ## 02 · Tokyo 東京
 
-Wed 23 Dec – Mon 28 Dec, 5 nights
+Wed 23 Dec – Sun 27 Dec, 4 nights
 
 - [Kamakura](https://www.google.com/maps/search/?api=1&query=Kamakura%2C%20Japan) 鎌倉 · City · Seaside temple town, about 1 hour from Tokyo.
 - [Tokyo](https://www.google.com/maps/search/?api=1&query=Tokyo%2C%20Japan) 東京 · City · Huge city. Stay near Shinjuku or Shibuya so the JR Yamanote loop line is on your doorstep.
@@ -72,7 +70,7 @@ Wed 23 Dec – Mon 28 Dec, 5 nights
 
 ## 03 · Hakone 箱根
 
-Mon 28 Dec – Tue 29 Dec, 1 night
+Sun 27 Dec – Mon 28 Dec, 1 night
 
 - [Chureito Pagoda](https://www.google.com/maps/search/?api=1&query=Chureito%20Pagoda%2C%20Japan) 忠霊塔 · Sight · The postcard view: five-storey pagoda with Mt Fuji behind.
 - [Hakone Shrine](https://www.google.com/maps/search/?api=1&query=Hakone%20Shrine%2C%20Japan) 箱根神社 · Sight · Red torii standing in Lake Ashi.
@@ -83,7 +81,7 @@ Mon 28 Dec – Tue 29 Dec, 1 night
 
 ## 04 · Kyoto 京都
 
-Tue 29 Dec – Fri 1 Jan, 3 nights
+Mon 28 Dec – Thu 31 Dec, 3 nights
 
 - [Kyoto](https://www.google.com/maps/search/?api=1&query=Kyoto%2C%20Japan) 京都 · City · Friend's tip: buses are slow and crowded. Use trains (JR, Keihan, Hankyu, subway) and walk.
 - [Fushimi Inari Taisha](https://www.google.com/maps/search/?api=1&query=Fushimi%20Inari%20Taisha%2C%20Japan) 伏見稲荷大社 · Sight · Thousands of red torii up the mountain. Go around 7am.
@@ -105,7 +103,7 @@ Tue 29 Dec – Fri 1 Jan, 3 nights
 
 ## 05 · Nara 奈良
 
-Fri 1 Jan
+Thu 31 Dec
 
 - [Nara](https://www.google.com/maps/search/?api=1&query=Nara%2C%20Japan) 奈良 · City · Old capital, easy from Kyoto or Osaka.
 - [Kasuga Taisha](https://www.google.com/maps/search/?api=1&query=Kasuga%20Taisha%2C%20Japan) 春日大社 · Sight · Shrine lined with thousands of lanterns.
@@ -114,11 +112,12 @@ Fri 1 Jan
 
 ## 06 · Osaka 大阪
 
-Fri 1 Jan – Sun 3 Jan, 2 nights
+Thu 31 Dec – Sat 2 Jan, 2 nights
 
 - [Kobe](https://www.google.com/maps/search/?api=1&query=Kobe%2C%20Japan) 神戸 · City · Kobe beef and the harbour.
 - [Osaka](https://www.google.com/maps/search/?api=1&query=Osaka%2C%20Japan) 大阪 · City · Food city. Stay around Namba for Dotonbori.
 - [Osaka Castle](https://www.google.com/maps/search/?api=1&query=Osaka%20Castle%2C%20Japan) 大阪城 · Sight
+- [Sumiyoshi Taisha](https://www.google.com/maps/search/?api=1&query=Sumiyoshi%20Taisha%2C%20Japan) 住吉大社 · Sight · Osaka's grand shrine with the arched red bridge, the busiest in the city on 1–3 Jan. Nankai line from Namba, about 10 minutes.
 - [Umeda Sky Building](https://www.google.com/maps/search/?api=1&query=Umeda%20Sky%20Building%2C%20Japan) 梅田スカイビル · Sight · Floating Garden observatory.
 - [Universal Studios Japan](https://www.google.com/maps/search/?api=1&query=Universal%20Studios%20Japan) ユニバーサル・スタジオ・ジャパン · Sight · Super Nintendo World needs a timed entry ticket or Express Pass.
 - [Dotonbori](https://www.google.com/maps/search/?api=1&query=Dotonbori%2C%20Japan) 道頓堀 · Food · Neon canal and street food: takoyaki, okonomiyaki, kushikatsu.
@@ -134,45 +133,22 @@ Fri 1 Jan – Sun 3 Jan, 2 nights
 - [Mugiwara Store Abeno](https://www.google.com/maps/search/?api=1&query=ONE+PIECE+Mugiwara+Store+Abeno) 麦わらストア あべの · One Piece · Abeno Q's Mall 3F, Tennoji. Usually 10:00–21:00.
 - [Mugiwara Store Umeda](https://www.google.com/maps/search/?api=1&query=ONE+PIECE+Mugiwara+Store+Umeda) 麦わらストア 梅田 · One Piece · LUCUA SOUTH 13F, Osaka Station. LUCUA SOUTH reopens on 24 Nov 2026; for a while after that, floors 10–13 may need a lottery or numbered ticket.
 
-## 07 · Hiroshima 広島
+## 07 · Nagoya 名古屋
 
-Sun 3 Jan – Mon 4 Jan, 1 night
+Sat 2 Jan – Sun 3 Jan, 1 night
 
-- [Hiroshima](https://www.google.com/maps/search/?api=1&query=Hiroshima%2C%20Japan) 広島 · City · Try Hiroshima-style okonomiyaki (layered, with noodles).
-- [Hiroshima Peace Memorial Park](https://www.google.com/maps/search/?api=1&query=Hiroshima%20Peace%20Memorial%20Park%2C%20Japan) 平和記念公園 · Sight · Atomic Bomb Dome and the Peace Memorial Museum. Plan 2 to 3 hours.
-
-**One Piece & Jujutsu Kaisen**
-
-- [Jump Shop Hiroshima](https://www.google.com/maps/search/?api=1&query=Jump+Shop+Hiroshima+MINAMOA) ジャンプショップ 広島 · Jump Shop · MINAMOA 5F, in the Hiroshima Station building. Easy to visit while changing trains.
-
-## 08 · Miyajima 宮島
-
-Mon 4 Jan
-
-- [Miyajima](https://www.google.com/maps/search/?api=1&query=Miyajima%2C%20Japan) 宮島 · Sight · Floating torii of Itsukushima Shrine. Check the tide table.
-
-## 09 · Kumamoto 熊本
-
-Mon 4 Jan – Wed 6 Jan, 2 nights
-
-- [Kumamoto](https://www.google.com/maps/search/?api=1&query=Kumamoto%2C%20Japan) 熊本 · City · Home prefecture of One Piece creator Eiichiro Oda.
-- [Kumamoto Castle](https://www.google.com/maps/search/?api=1&query=Kumamoto%20Castle%2C%20Japan) 熊本城 · Sight · Huge castle still being restored after the 2016 earthquakes.
-- [Mount Aso](https://www.google.com/maps/search/?api=1&query=Mount%20Aso%2C%20Japan) 阿蘇山 · Nature · Active volcano; crater access depends on gas levels.
-- [Aso Kumamoto Airport](https://www.google.com/maps/search/?api=1&query=Aso%20Kumamoto%20Airport%2C%20Japan) 阿蘇くまもと空港 · Airport
+- [Nagoya](https://www.google.com/maps/search/?api=1&query=Nagoya%2C%20Japan) 名古屋 · City · Castle, miso katsu, and the Ghibli Park nearby.
+- [Atsuta Jingu](https://www.google.com/maps/search/?api=1&query=Atsuta%20Jingu%2C%20Japan) 熱田神宮 · Sight · One of Japan's most important shrines, home of the sacred sword. Packed with New Year visitors on 1–3 Jan.
+- [Ghibli Park](https://www.google.com/maps/search/?api=1&query=Ghibli%20Park%2C%20Japan) ジブリパーク · Sight · In Aichi Expo Memorial Park, about 40 minutes from Nagoya. Timed tickets are sold well in advance.
+- [Inuyama Castle](https://www.google.com/maps/search/?api=1&query=Inuyama%20Castle%2C%20Japan) 犬山城 · Sight · One of Japan's twelve original castles, about 30 minutes from Nagoya by Meitetsu.
+- [Nagoya Castle](https://www.google.com/maps/search/?api=1&query=Nagoya%20Castle%2C%20Japan) 名古屋城 · Sight · Golden shachi on the keep and the rebuilt Hommaru Palace. The Omotenashi Bushotai samurai perform at set times. Closed 29 Dec – 1 Jan.
+- [Sekigahara Battlefield](https://www.google.com/maps/search/?api=1&query=Sekigahara%20Battlefield%2C%20Japan) 関ケ原古戦場 · Sight · Where the battle of 1600 made Tokugawa Ieyasu master of Japan. Memorial museum and battle sites around the town, about an hour from Nagoya by JR.
+- [Osu Shopping Street](https://www.google.com/maps/search/?api=1&query=Osu%20Shopping%20Street%2C%20Japan) 大須商店街 · Shopping · Covered arcades around Osu Kannon temple: street food, vintage clothes, anime, figure and game shops.
+- [Chubu Centrair Airport](https://www.google.com/maps/search/?api=1&query=Chubu%20Centrair%20Airport%2C%20Japan) 中部国際空港 · Airport
 
 **One Piece & Jujutsu Kaisen**
 
-- [Brook statue](https://www.google.com/maps/search/?api=1&query=32.71399%2C130.80521) ブルック像 · One Piece · Beside the Mifune Dinosaur Museum. Kumamoto Bus from Sakuramachi Bus Terminal, about 45 minutes.
-- [Chopper statue](https://www.google.com/maps/search/?api=1&query=32.77612%2C130.75039) チョッパー像 · One Piece · Outside the main gate of Kumamoto Zoo and Botanical Gardens. Tram to Doshokubutsuen-iriguchi, then about 10 minutes on foot. The zoo is closed on Mondays.
-- [Franky statue](https://www.google.com/maps/search/?api=1&query=32.81924%2C131.12264) フランキー像 · One Piece · In front of Takamori Station. JR to Tateno, then the Minamiaso Railway.
-- [Jinbe statue](https://www.google.com/maps/search/?api=1&query=32.7041%2C130.5813) ジンベエ像 · One Piece · The largest statue, in Sumiyoshi Seaside Park, Uto. About 35 minutes by car, or JR to Uto and about 15 minutes by bus to Sumiyoshi Kaigan.
-- [Luffy statue](https://www.google.com/maps/search/?api=1&query=32.78902%2C130.74129) ルフィ像 · One Piece · The first Straw Hat statue (2018), on the promenade of the Kumamoto Prefectural Government Office. Bus stop: Kumamoto Kencho-mae, where the airport bus also stops.
-- [Mugiwara Store Kumamoto](https://www.google.com/maps/search/?api=1&query=ONE+PIECE+Mugiwara+Store+Kumamoto) 麦わらストア 熊本 · One Piece · AMU Plaza Kumamoto 6F, at Kumamoto Station. Usually 10:00–20:00.
-- [Nami statue](https://www.google.com/maps/search/?api=1&query=32.84292%2C130.93903) ナミ像 · One Piece · Tawarayama Koryukan Moenosato, Nishihara. About 11 minutes by the Takamori-go bus from the airport, otherwise by car.
-- [Robin statue](https://www.google.com/maps/search/?api=1&query=32.89122%2C130.99578) ロビン像 · One Piece · Former Tokai University Aso Campus. Open 9:00–17:00 (last entry 16:30), closed on Mondays. Needs a car or taxi.
-- [Sanji statue](https://www.google.com/maps/search/?api=1&query=32.78699%2C130.82348) サンジ像 · One Piece · MINATERAS in Mashiki. Easiest by car or taxi.
-- [Usopp statue](https://www.google.com/maps/search/?api=1&query=32.93701%2C131.08033) ウソップ像 · One Piece · In front of JR Aso Station on the Hohi line. The most visited statue.
-- [Zoro statue](https://www.google.com/maps/search/?api=1&query=32.8771%2C130.87115) ゾロ像 · One Piece · Ozu Central Park, a 6–8 minute walk from JR Higo-Ozu station on the Hohi line. The Airport Liner bus from Higo-Ozu reaches the airport in 15 minutes.
+- [Mugiwara Store Nagoya](https://www.google.com/maps/search/?api=1&query=ONE+PIECE+Mugiwara+Store+Nagoya) 麦わらストア 名古屋 · One Piece · In Nagoya PARCO, Sakae. The only one in the Tokai region. Check the floor and hours on mugiwara-store.com before you go.
 
 ## Elsewhere in Japan
 
@@ -214,7 +190,6 @@ Places more than 50 km from the route, for other trips or a change of plan.
 - [Kanazawa](https://www.google.com/maps/search/?api=1&query=Kanazawa%2C%20Japan) 金沢 · City · Geisha districts, gold leaf, great seafood.
 - [Karuizawa](https://www.google.com/maps/search/?api=1&query=Karuizawa%2C%20Japan) 軽井沢 · City
 - [Nagano](https://www.google.com/maps/search/?api=1&query=Nagano%2C%20Japan) 長野 · City
-- [Nagoya](https://www.google.com/maps/search/?api=1&query=Nagoya%2C%20Japan) 名古屋 · City · Castle, miso katsu, and the Ghibli Park nearby.
 - [Takayama](https://www.google.com/maps/search/?api=1&query=Takayama%2C%20Japan) 高山 · City · Preserved merchant town in the Japanese Alps.
 - [Toyama](https://www.google.com/maps/search/?api=1&query=Toyama%2C%20Japan) 富山 · City
 - [Magome](https://www.google.com/maps/search/?api=1&query=Magome%2C%20Japan) 馬籠宿 · Sight · Hike 8 km from here to Tsumago along the old road.
@@ -225,7 +200,6 @@ Places more than 50 km from the route, for other trips or a change of plan.
 - [Kamikochi](https://www.google.com/maps/search/?api=1&query=Kamikochi%2C%20Japan) 上高地 · Nature · Alpine valley, open roughly mid-April to mid-November.
 - [Kenroku-en](https://www.google.com/maps/search/?api=1&query=Kenroku-en%2C%20Japan) 兼六園 · Nature · One of Japan's three great gardens.
 - [Tateyama Kurobe Alpine Route](https://www.google.com/maps/search/?api=1&query=Tateyama%20Kurobe%20Alpine%20Route%2C%20Japan) 立山黒部アルペンルート · Nature · Mountain crossing with snow walls in spring.
-- [Chubu Centrair Airport](https://www.google.com/maps/search/?api=1&query=Chubu%20Centrair%20Airport%2C%20Japan) 中部国際空港 · Airport
 
 ### Kansai
 
@@ -237,11 +211,18 @@ Places more than 50 km from the route, for other trips or a change of plan.
 
 ### Chugoku
 
+- [Hiroshima](https://www.google.com/maps/search/?api=1&query=Hiroshima%2C%20Japan) 広島 · City · Try Hiroshima-style okonomiyaki (layered, with noodles).
 - [Onomichi](https://www.google.com/maps/search/?api=1&query=Onomichi%2C%20Japan) 尾道 · City · Start of the Shimanami Kaido cycling route.
+- [Hiroshima Peace Memorial Park](https://www.google.com/maps/search/?api=1&query=Hiroshima%20Peace%20Memorial%20Park%2C%20Japan) 平和記念公園 · Sight · Atomic Bomb Dome and the Peace Memorial Museum. Plan 2 to 3 hours.
 - [Izumo Taisha](https://www.google.com/maps/search/?api=1&query=Izumo%20Taisha%2C%20Japan) 出雲大社 · Sight · Ancient shrine with a giant straw rope.
 - [Kurashiki](https://www.google.com/maps/search/?api=1&query=Kurashiki%2C%20Japan) 倉敷 · Sight · Willow-lined canal old town.
+- [Miyajima](https://www.google.com/maps/search/?api=1&query=Miyajima%2C%20Japan) 宮島 · Sight · Floating torii of Itsukushima Shrine. Check the tide table.
 - [Okayama Korakuen](https://www.google.com/maps/search/?api=1&query=Okayama%20Korakuen%2C%20Japan) 後楽園 · Nature · One of Japan's three great gardens.
 - [Tottori Sand Dunes](https://www.google.com/maps/search/?api=1&query=Tottori%20Sand%20Dunes%2C%20Japan) 鳥取砂丘 · Nature
+
+**One Piece & Jujutsu Kaisen**
+
+- [Jump Shop Hiroshima](https://www.google.com/maps/search/?api=1&query=Jump+Shop+Hiroshima+MINAMOA) ジャンプショップ 広島 · Jump Shop · MINAMOA 5F, in the Hiroshima Station building. Easy to visit while changing trains.
 
 ### Shikoku
 
@@ -254,18 +235,33 @@ Places more than 50 km from the route, for other trips or a change of plan.
 
 - [Fukuoka](https://www.google.com/maps/search/?api=1&query=Fukuoka%2C%20Japan) 福岡 · City · Hakata ramen and riverside yatai food stalls.
 - [Kagoshima](https://www.google.com/maps/search/?api=1&query=Kagoshima%2C%20Japan) 鹿児島 · City
+- [Kumamoto](https://www.google.com/maps/search/?api=1&query=Kumamoto%2C%20Japan) 熊本 · City · Home prefecture of One Piece creator Eiichiro Oda.
 - [Nagasaki](https://www.google.com/maps/search/?api=1&query=Nagasaki%2C%20Japan) 長崎 · City
 - [Dazaifu Tenmangu](https://www.google.com/maps/search/?api=1&query=Dazaifu%20Tenmangu%2C%20Japan) 太宰府天満宮 · Sight
+- [Kumamoto Castle](https://www.google.com/maps/search/?api=1&query=Kumamoto%20Castle%2C%20Japan) 熊本城 · Sight · Huge castle still being restored after the 2016 earthquakes.
+- [Mount Aso](https://www.google.com/maps/search/?api=1&query=Mount%20Aso%2C%20Japan) 阿蘇山 · Nature · Active volcano; crater access depends on gas levels.
 - [Sakurajima](https://www.google.com/maps/search/?api=1&query=Sakurajima%2C%20Japan) 桜島 · Nature · Active volcano, a short ferry ride from Kagoshima.
 - [Takachiho Gorge](https://www.google.com/maps/search/?api=1&query=Takachiho%20Gorge%2C%20Japan) 高千穂峡 · Nature · Rowboats under a waterfall in a basalt gorge.
 - [Yakushima](https://www.google.com/maps/search/?api=1&query=Yakushima%2C%20Japan) 屋久島 · Nature · Ancient cedar forest island.
 - [Beppu](https://www.google.com/maps/search/?api=1&query=Beppu%2C%20Japan) 別府 · Onsen · The 'hells': colourful boiling hot springs.
 - [Yufuin](https://www.google.com/maps/search/?api=1&query=Yufuin%2C%20Japan) 由布院 · Onsen
+- [Aso Kumamoto Airport](https://www.google.com/maps/search/?api=1&query=Aso%20Kumamoto%20Airport%2C%20Japan) 阿蘇くまもと空港 · Airport
 - [Fukuoka Airport](https://www.google.com/maps/search/?api=1&query=Fukuoka%20Airport%2C%20Japan) 福岡空港 · Airport · Very close to Hakata Station.
 
 **One Piece & Jujutsu Kaisen**
 
+- [Brook statue](https://www.google.com/maps/search/?api=1&query=32.71399%2C130.80521) ブルック像 · One Piece · Beside the Mifune Dinosaur Museum. Kumamoto Bus from Sakuramachi Bus Terminal, about 45 minutes.
+- [Chopper statue](https://www.google.com/maps/search/?api=1&query=32.77612%2C130.75039) チョッパー像 · One Piece · Outside the main gate of Kumamoto Zoo and Botanical Gardens. Tram to Doshokubutsuen-iriguchi, then about 10 minutes on foot. The zoo is closed on Mondays.
+- [Franky statue](https://www.google.com/maps/search/?api=1&query=32.81924%2C131.12264) フランキー像 · One Piece · In front of Takamori Station. JR to Tateno, then the Minamiaso Railway.
+- [Jinbe statue](https://www.google.com/maps/search/?api=1&query=32.7041%2C130.5813) ジンベエ像 · One Piece · The largest statue, in Sumiyoshi Seaside Park, Uto. About 35 minutes by car, or JR to Uto and about 15 minutes by bus to Sumiyoshi Kaigan.
+- [Luffy statue](https://www.google.com/maps/search/?api=1&query=32.78902%2C130.74129) ルフィ像 · One Piece · The first Straw Hat statue (2018), on the promenade of the Kumamoto Prefectural Government Office. Bus stop: Kumamoto Kencho-mae, where the airport bus also stops.
+- [Mugiwara Store Kumamoto](https://www.google.com/maps/search/?api=1&query=ONE+PIECE+Mugiwara+Store+Kumamoto) 麦わらストア 熊本 · One Piece · AMU Plaza Kumamoto 6F, at Kumamoto Station. Usually 10:00–20:00.
+- [Nami statue](https://www.google.com/maps/search/?api=1&query=32.84292%2C130.93903) ナミ像 · One Piece · Tawarayama Koryukan Moenosato, Nishihara. About 11 minutes by the Takamori-go bus from the airport, otherwise by car.
+- [Robin statue](https://www.google.com/maps/search/?api=1&query=32.89122%2C130.99578) ロビン像 · One Piece · Former Tokai University Aso Campus. Open 9:00–17:00 (last entry 16:30), closed on Mondays. Needs a car or taxi.
 - [Sakurajima (Culling Game colony)](https://www.google.com/maps/search/?api=1&query=31.59082%2C130.59419) 桜島 · Jujutsu Kaisen · A real Culling Game colony. 15-minute ferry from Kagoshima; no sailings between midnight and about 4am.
+- [Sanji statue](https://www.google.com/maps/search/?api=1&query=32.78699%2C130.82348) サンジ像 · One Piece · MINATERAS in Mashiki. Easiest by car or taxi.
+- [Usopp statue](https://www.google.com/maps/search/?api=1&query=32.93701%2C131.08033) ウソップ像 · One Piece · In front of JR Aso Station on the Hohi line. The most visited statue.
+- [Zoro statue](https://www.google.com/maps/search/?api=1&query=32.8771%2C130.87115) ゾロ像 · One Piece · Ozu Central Park, a 6–8 minute walk from JR Higo-Ozu station on the Hohi line. The Airport Liner bus from Higo-Ozu reaches the airport in 15 minutes.
 
 ### Okinawa
 
