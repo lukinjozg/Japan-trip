@@ -42,7 +42,11 @@ Book on **[SmartEX](https://smart-ex.jp/en/)**, the official site and app of JR 
 
 1. Install the SmartEX app (or use the website) and sign up with a credit card. One account books for both of you.
 2. Book each ride now. SmartEX takes bookings up to a year ahead and confirms the train and seats from 8:00 Japan time one month before the day (the dates above), which is midnight in Croatia. You get an email.
-3. Pick reserved seats in an ordinary car. For the two of you, take D and E (the two-seat side); E is on the Mt Fuji side in both directions. After the seats are confirmed you can still change them on the seat map. Bags over 160 cm (length + width + height) need a seat with an oversized baggage area, chosen when you book.
+3. Pick reserved seats in an ordinary car. Booking this early, you can't choose seats or a seat with an oversized baggage area; SmartEX picks them at 8:00 Japan time one month before. Then, straight away and before the general sale at 10:00 Japan time (2:00 in Croatia), change on the seat map:
+   - to D and E, the two-seat side, together; E is on the Mt Fuji side in both directions
+   - to a seat with an oversized baggage area if a bag is over 160 cm (length + width + height)
+
+   You can't change or refund a booking on that day from 7:30 Japan time until the seats are confirmed.
 4. Ride with the QR code ticket SmartEX gives you, or link your IC cards (Suica, PASMO) to the booking and tap through the gates.
 
 ### Tricks
