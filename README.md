@@ -1,10 +1,47 @@
 # Mile & Ika in Japan
 
-A 12-night route through Japan on a map: Tokyo, Hakone, Kyoto, Osaka, Hiroshima, Miyajima and Nagoya, from 23 December 2026 to 4 January 2027, back to Tokyo by Shinkansen, with One Piece and Jujutsu Kaisen spots along the way.
+A 14-night route through Japan on a map: Shinjuku, Hakone, Kyoto, Osaka, Hiroshima, Miyajima, Nagoya and a last night in Ueno, from 23 December 2026 to 6 January 2027, with One Piece and Jujutsu Kaisen spots along the way.
 
 **Open the map:** https://lukinjozg.github.io/Japan-trip/
 
 **All places with Google Maps links:** [PLACES.md](PLACES.md)
+
+## Where we sleep
+
+All booked.
+
+| Nights | Where | Price | Payment |
+|---|---|---|---|
+| 23–27 Dec (4) | Shinjuku | 244.27 € | Paid |
+| 27–28 Dec (1) | Hakone | 183 € | At the property |
+| 28–30 Dec (2) | Kyoto | 100 € | 21 Dec |
+| 30 Dec – 2 Jan (3) | Osaka | 330 € | At the property |
+| 2–3 Jan (1) | Hiroshima | 60 € | 30 Dec |
+| 3–5 Jan (2) | Nagoya | 102 € | 31 Dec |
+| 5–6 Jan (1) | Ueno | 64 € | 6 Dec |
+| **14 nights** | | **1,083.27 €** | 541.64 € each |
+
+## Shinkansen
+
+Four Shinkansen rides, all on the Tokaido and Sanyo line, so one [SmartEX](https://smart-ex.jp/en/) account books every one of them. Fares are per person for a reserved seat in an ordinary car, roughly; the year-end peak adds a few hundred yen.
+
+| Day | Train | About | Fare | Seats confirmed |
+|---|---|---|---|---|
+| Mon 28 Dec | Odawara → Kyoto, Hikari | 2 h | ≈ ¥12,500 | 28 Nov |
+| Sat 2 Jan | Shin-Osaka → Hiroshima, Nozomi | 1 h 25 min | ≈ ¥10,800 | 2 Dec |
+| Sun 3 Jan | Hiroshima → Nagoya, Nozomi | 2 h 15 min | ≈ ¥15,000 | 3 Dec |
+| Tue 5 Jan | Nagoya → Tokyo, Nozomi | 1 h 40 min | ≈ ¥11,500 | 5 Dec |
+
+About ¥50,000 each, ¥100,000 for two. A 7-day JR Pass (¥50,000) costs the same, only covers 7 of the 9 days between the first and last ride, and needs an extra ticket for Nozomi, so single tickets are better.
+
+How to book:
+
+1. Sign up on SmartEX (English, free) with a credit card. One account books for both of you.
+2. Book each ride now: SmartEX takes bookings up to a year ahead, and confirms the train and seats from 8:00 Japan time one month before the day (the dates above), before the general sale opens at 10:00. Confirm the booking that day.
+3. Pick reserved seats in an ordinary car. Seat E is on the Mt Fuji side in both directions (28 Dec and 5 Jan). Bags over 160 cm (length + width + height) need a seat with an oversized baggage area, chosen when you book.
+4. Ride with the QR code ticket SmartEX gives you, or link your IC cards (Suica, PASMO) to the booking and tap through the gates.
+
+New Year is the busiest time of the year on the Shinkansen, especially 28 Dec and 2–4 Jan, and early-booking discounts (Hayatoku) usually don't apply then.
 
 ## Using the map
 

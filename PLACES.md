@@ -7,17 +7,17 @@ Every place from the map's databases, with a Google Maps link, grouped under the
 | # | Stop | Dates | Nights |
 |---|---|---|---|
 | 01 | Narita Airport 成田空港 | Wed 23 Dec | – |
-| 02 | Tokyo 東京 | Wed 23 Dec – Sun 27 Dec | 4 |
+| 02 | Shinjuku 新宿 | Wed 23 Dec – Sun 27 Dec | 4 |
 | 03 | Hakone 箱根 | Sun 27 Dec – Mon 28 Dec | 1 |
-| 04 | Kyoto 京都 | Mon 28 Dec – Thu 31 Dec | 3 |
-| 05 | Osaka 大阪 | Thu 31 Dec – Sat 2 Jan | 2 |
+| 04 | Kyoto 京都 | Mon 28 Dec – Wed 30 Dec | 2 |
+| 05 | Osaka 大阪 | Wed 30 Dec – Sat 2 Jan | 3 |
 | 06 | Hiroshima 広島 | Sat 2 Jan – Sun 3 Jan | 1 |
 | 07 | Miyajima 宮島 | Sun 3 Jan | – |
-| 08 | Nagoya 名古屋 | Sun 3 Jan – Mon 4 Jan | 1 |
-| 09 | Tokyo Station 東京駅 | Mon 4 Jan | – |
-| 10 | Narita Airport 成田空港 | Mon 4 Jan | – |
+| 08 | Nagoya 名古屋 | Sun 3 Jan – Tue 5 Jan | 2 |
+| 09 | Ueno 上野 | Tue 5 Jan – Wed 6 Jan | 1 |
+| 10 | Narita Airport 成田空港 | Wed 6 Jan | – |
 
-## 02 · Tokyo 東京
+## 02 · Shinjuku 新宿
 
 Wed 23 Dec – Sun 27 Dec, 4 nights
 
@@ -37,11 +37,9 @@ Wed 23 Dec – Sun 27 Dec, 4 nights
 - [Tokyo DisneySea](https://www.google.com/maps/search/?api=1&query=Tokyo%20DisneySea%2C%20Japan) 東京ディズニーシー · Sight
 - [Tokyo Skytree](https://www.google.com/maps/search/?api=1&query=Tokyo%20Skytree%2C%20Japan) 東京スカイツリー · Sight · 634 m tower, about 20 minutes on foot from Senso-ji.
 - [Tokyo Tower](https://www.google.com/maps/search/?api=1&query=Tokyo%20Tower%2C%20Japan) 東京タワー · Sight · The classic red-and-white tower.
-- [Ueno Park](https://www.google.com/maps/search/?api=1&query=Ueno%20Park%2C%20Japan) 上野公園 · Sight · Museums and the zoo, with Ameyoko market next door.
 - [Imperial Palace East Gardens](https://www.google.com/maps/search/?api=1&query=Imperial%20Palace%20East%20Gardens%2C%20Japan) 皇居東御苑 · Nature · Free gardens on the old Edo Castle grounds.
 - [Shinjuku Gyoen](https://www.google.com/maps/search/?api=1&query=Shinjuku%20Gyoen%2C%20Japan) 新宿御苑 · Nature · Large landscaped garden. Famous for cherry blossoms.
 - [Tsukiji Outer Market](https://www.google.com/maps/search/?api=1&query=Tsukiji%20Outer%20Market%2C%20Japan) 築地場外市場 · Food · Seafood breakfast and street snacks. Best before 11am.
-- [Yanaka Ginza](https://www.google.com/maps/search/?api=1&query=Yanaka%20Ginza%2C%20Japan) 谷中銀座 · Food · Old-Tokyo shopping street with snack stalls.
 - [Akihabara](https://www.google.com/maps/search/?api=1&query=Akihabara%2C%20Japan) 秋葉原 · Shopping · Electronics, anime, figures, retro games, maid cafes.
 - [Ikebukuro](https://www.google.com/maps/search/?api=1&query=Ikebukuro%2C%20Japan) 池袋 · Shopping · Big anime shops, Sunshine City and Otome Road.
 - [Nakano Broadway](https://www.google.com/maps/search/?api=1&query=Nakano%20Broadway%2C%20Japan) 中野ブロードウェイ · Shopping · Old mall packed with anime, manga and collectibles shops.
@@ -82,7 +80,7 @@ Sun 27 Dec – Mon 28 Dec, 1 night
 
 ## 04 · Kyoto 京都
 
-Mon 28 Dec – Thu 31 Dec, 3 nights
+Mon 28 Dec – Wed 30 Dec, 2 nights
 
 - [Kyoto](https://www.google.com/maps/search/?api=1&query=Kyoto%2C%20Japan) 京都 · City · Friend's tip: buses are slow and crowded. Use trains (JR, Keihan, Hankyu, subway) and walk.
 - [Fushimi Inari Taisha](https://www.google.com/maps/search/?api=1&query=Fushimi%20Inari%20Taisha%2C%20Japan) 伏見稲荷大社 · Sight · Thousands of red torii up the mountain. Go around 7am.
@@ -104,7 +102,7 @@ Mon 28 Dec – Thu 31 Dec, 3 nights
 
 ## 05 · Osaka 大阪
 
-Thu 31 Dec – Sat 2 Jan, 2 nights
+Wed 30 Dec – Sat 2 Jan, 3 nights
 
 - [Kobe](https://www.google.com/maps/search/?api=1&query=Kobe%2C%20Japan) 神戸 · City · Kobe beef and the harbour.
 - [Nara](https://www.google.com/maps/search/?api=1&query=Nara%2C%20Japan) 奈良 · City · Old capital, easy from Kyoto or Osaka.
@@ -148,7 +146,7 @@ Sun 3 Jan
 
 ## 08 · Nagoya 名古屋
 
-Sun 3 Jan – Mon 4 Jan, 1 night
+Sun 3 Jan – Tue 5 Jan, 2 nights
 
 - [Nagoya](https://www.google.com/maps/search/?api=1&query=Nagoya%2C%20Japan) 名古屋 · City · Castle, miso katsu, and the Ghibli Park nearby.
 - [Atsuta Jingu](https://www.google.com/maps/search/?api=1&query=Atsuta%20Jingu%2C%20Japan) 熱田神宮 · Sight · One of Japan's most important shrines, home of the sacred sword. Packed with New Year visitors on 1–3 Jan.
@@ -162,6 +160,15 @@ Sun 3 Jan – Mon 4 Jan, 1 night
 **One Piece & Jujutsu Kaisen**
 
 - [Mugiwara Store Nagoya](https://www.google.com/maps/search/?api=1&query=ONE+PIECE+Mugiwara+Store+Nagoya) 麦わらストア 名古屋 · One Piece · In Nagoya PARCO, Sakae. The only one in the Tokai region. Check the floor and hours on mugiwara-store.com before you go.
+
+## 09 · Ueno 上野
+
+Tue 5 Jan – Wed 6 Jan, 1 night
+
+- [Ueno Park](https://www.google.com/maps/search/?api=1&query=Ueno%20Park%2C%20Japan) 上野公園 · Sight · Museums and the zoo, with Ameyoko market next door.
+- [Yanaka Ginza](https://www.google.com/maps/search/?api=1&query=Yanaka%20Ginza%2C%20Japan) 谷中銀座 · Food · Old-Tokyo shopping street with snack stalls.
+
+The rest of Tokyo is listed under Shinjuku.
 
 ## Elsewhere in Japan
 
