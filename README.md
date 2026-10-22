@@ -25,23 +25,35 @@ All booked.
 
 Four Shinkansen rides, all on the Tokaido and Sanyo line, so one [SmartEX](https://smart-ex.jp/en/) account books every one of them. Fares are per person for a reserved seat in an ordinary car, roughly; the year-end peak adds a few hundred yen.
 
-| Day | Train | About | Fare | Seats confirmed |
-|---|---|---|---|---|
-| Mon 28 Dec | Odawara → Kyoto, Hikari | 2 h | ≈ ¥12,500 | 28 Nov |
-| Sat 2 Jan | Shin-Osaka → Hiroshima, Nozomi | 1 h 25 min | ≈ ¥10,800 | 2 Dec |
-| Sun 3 Jan | Hiroshima → Nagoya, Nozomi | 2 h 15 min | ≈ ¥15,000 | 3 Dec |
-| Tue 5 Jan | Nagoya → Tokyo, Nozomi | 1 h 40 min | ≈ ¥11,500 | 5 Dec |
+| Day | Train | Leave | About | Fare | Seats confirmed |
+|---|---|---|---|---|---|
+| Mon 28 Dec | Odawara → Kyoto, Hikari | 11:00–12:00 | 2 h | ≈ ¥12,500 | 28 Nov |
+| Sat 2 Jan | Shin-Osaka → Hiroshima, Nozomi or Sakura | 10:30–11:30 | 1 h 25 min | ≈ ¥10,800 | 2 Dec |
+| Sun 3 Jan | Hiroshima → Nagoya, Nozomi | 15:00–16:30 | 2 h 15 min | ≈ ¥15,000 | 3 Dec |
+| Tue 5 Jan | Nagoya → Tokyo, Nozomi | 12:00–13:00 | 1 h 40 min | ≈ ¥11,500 | 5 Dec |
 
 About ¥50,000 each, ¥100,000 for two. A 7-day JR Pass (¥50,000) costs the same, only covers 7 of the 9 days between the first and last ride, and needs an extra ticket for Nozomi, so single tickets are better.
 
-How to book:
+Why these times: on 28 Dec you check out of the ryokan around 10:00; on 2 Jan you get the afternoon at the Peace Memorial Park; on 3 Jan Miyajima gets the whole morning (high tide around 7:10, ferry queues grow later); on 5 Jan you have the morning for Atsuta Jingu and the Mugiwara Store.
 
-1. Sign up on SmartEX (English, free) with a credit card. One account books for both of you.
-2. Book each ride now: SmartEX takes bookings up to a year ahead, and confirms the train and seats from 8:00 Japan time one month before the day (the dates above), before the general sale opens at 10:00. Confirm the booking that day.
-3. Pick reserved seats in an ordinary car. Seat E is on the Mt Fuji side in both directions (28 Dec and 5 Jan). Bags over 160 cm (length + width + height) need a seat with an oversized baggage area, chosen when you book.
+### Where to book
+
+Book on **[SmartEX](https://smart-ex.jp/en/)**, the official site and app of JR Central, JR West and JR Kyushu, in English. It covers all four rides, sells at the normal JR price, and is the only place that lets you book now for seats a month ahead. Resellers (Klook, Trip.com and the like) add a fee, and buying at the station over New Year risks sold-out trains.
+
+1. Install the SmartEX app (or use the website) and sign up with a credit card. One account books for both of you.
+2. Book each ride now. SmartEX takes bookings up to a year ahead and confirms the train and seats from 8:00 Japan time one month before the day (the dates above), which is midnight in Croatia. You get an email.
+3. Pick reserved seats in an ordinary car. For the two of you, take D and E (the two-seat side); E is on the Mt Fuji side in both directions. After the seats are confirmed you can still change them on the seat map. Bags over 160 cm (length + width + height) need a seat with an oversized baggage area, chosen when you book.
 4. Ride with the QR code ticket SmartEX gives you, or link your IC cards (Suica, PASMO) to the booking and tap through the gates.
 
-New Year is the busiest time of the year on the Shinkansen, especially 28 Dec and 2–4 Jan, and early-booking discounts (Hayatoku) usually don't apply then.
+### Tricks
+
+- Changes are free, as many times as you like, up to 4 minutes before the train leaves. Book a time now and move it on your phone if Miyajima runs long. Cancelling costs ¥320.
+- Over New Year (about 26 Dec to 4 Jan) every Nozomi is reserved seats only, so there is no unreserved car to fall back on. On 2 Jan, Sakura and Mizuho to Hiroshima still have unreserved cars.
+- Only Hikari and Kodama stop at Odawara, and only Nozomi run straight from Hiroshima to Nagoya.
+- If ordinary seats sell out, the Green Car (first class, about ¥5,000 more) often still has seats.
+- Hayatoku early-booking discounts usually don't apply over New Year.
+- Local trains (Hiroshima–Miyajimaguchi, Kyoto–Osaka, Tokyo–Ueno) aren't booked: tap in with your IC card. The Romancecar to Hakone and the Skyliner to Narita are booked on their own sites (links on the map).
+- Buy an ekiben (station bento) before boarding: anago-meshi in Hiroshima, tenmusu in Nagoya.
 
 ## Using the map
 
